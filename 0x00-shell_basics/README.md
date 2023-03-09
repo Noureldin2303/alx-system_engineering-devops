@@ -3,9 +3,9 @@
 * 0 - Write a script that prints the absolute path name of the current working directory.
 [0-current_working_directory](https://github.com/Noureldin2303/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)
 
-     $ ./0-current_working_directory
-     /root/alx-system_engineering-devops/0x00-shell_basics
-     $
+          $ ./0-current_working_directory
+          /root/alx-system_engineering-devops/0x00-shell_basics
+          $
 * 1 - Display the contents list of your current directory.
 [1-listit](https://github.com/Noureldin2303/alx-system_engineering-devops/blob/master/0x00-shell_basics/1-listit)
 
