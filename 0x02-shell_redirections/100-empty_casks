@@ -1,2 +1,2 @@
 #!/bin/bash
-find -empty | cut -d: -f1
+find ./ -type f -not -empty | wc -l
